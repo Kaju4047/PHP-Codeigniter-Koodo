@@ -1,0 +1,9 @@
+@media (min-width: 320px) and (max-width: 479px) {
+
+}
+
+
+@media (min-width: 300px) and (max-width: 767px) {
+.skin-blue .main-header .navbar .dropdown-menu li a{color:black !important;}
+.skin-blue .main-header .navbar .dropdown-menu li a:hover { background: transparent !important;color:#e18033!important;}
+}
